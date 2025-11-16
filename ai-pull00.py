@@ -63,7 +63,7 @@ st.link_button("대화 를 통해 듣기", "https://youtu.be/Auo0ymRZxHs")
 
 
 # Video 링크 버튼
-st.link_button("Video 를 통해 보기", "https://youtu.be/Lv3n7I1njbc")
+st.link_button("Video 를 통해 보기", "https://youtu.be/_7txKwmWo24")
 
 
 # # PPT 링크 버튼
